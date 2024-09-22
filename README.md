@@ -2,7 +2,7 @@
 
 The Faithless resource pack ported to Minecraft: New Nintendo 3DS Edition
 
-Original resource pack by StitchSprites
+Original resource pack by StitchSprites (https://linktr.ee/stitch.sprites)
 
 Ported over to MC3DS with permission from the author
 
